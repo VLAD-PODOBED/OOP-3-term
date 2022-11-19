@@ -1,0 +1,15 @@
+D:\ООП\LABA-10\LABA-10\bin\Debug\net6.0\LABA-10.exe
+D:\ООП\LABA-10\LABA-10\bin\Debug\net6.0\LABA-10.deps.json
+D:\ООП\LABA-10\LABA-10\bin\Debug\net6.0\LABA-10.runtimeconfig.json
+D:\ООП\LABA-10\LABA-10\bin\Debug\net6.0\LABA-10.dll
+D:\ООП\LABA-10\LABA-10\bin\Debug\net6.0\LABA-10.pdb
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.csproj.AssemblyReference.cache
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.AssemblyInfoInputs.cache
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.AssemblyInfo.cs
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.csproj.CoreCompileInputs.cache
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.dll
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\refint\LABA-10.dll
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.pdb
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\LABA-10.genruntimeconfig.cache
+D:\ООП\LABA-10\LABA-10\obj\Debug\net6.0\ref\LABA-10.dll

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCartoon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cartoon>
+    <Name>Сейлор Мун </Name>
+    <Budget>0</Budget>
+    <Year>1948</Year>
+  </Cartoon>
+  <Cartoon>
+    <Name>Губка Боб </Name>
+    <Budget>0</Budget>
+    <Year>2004</Year>
+  </Cartoon>
+  <Cartoon>
+    <Name>Арнольд </Name>
+    <Budget>0</Budget>
+    <Year>1989</Year>
+  </Cartoon>
+</ArrayOfCartoon>

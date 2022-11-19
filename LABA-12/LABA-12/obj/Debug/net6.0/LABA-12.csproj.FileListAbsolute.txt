@@ -1,0 +1,15 @@
+D:\ООП\LABA-12\LABA-12\bin\Debug\net6.0\LABA-12.exe
+D:\ООП\LABA-12\LABA-12\bin\Debug\net6.0\LABA-12.deps.json
+D:\ООП\LABA-12\LABA-12\bin\Debug\net6.0\LABA-12.runtimeconfig.json
+D:\ООП\LABA-12\LABA-12\bin\Debug\net6.0\LABA-12.dll
+D:\ООП\LABA-12\LABA-12\bin\Debug\net6.0\LABA-12.pdb
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.csproj.AssemblyReference.cache
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.AssemblyInfoInputs.cache
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.AssemblyInfo.cs
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.csproj.CoreCompileInputs.cache
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.dll
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\refint\LABA-12.dll
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.pdb
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\LABA-12.genruntimeconfig.cache
+D:\ООП\LABA-12\LABA-12\obj\Debug\net6.0\ref\LABA-12.dll
