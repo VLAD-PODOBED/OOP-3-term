@@ -31,9 +31,9 @@ namespace LABA15
             Eratos2.Start();
 
             Console.WriteLine("Enter 0 to stop the process:\n");                        /// по идее должен ливать из процесса
-            string s = Console.ReadLine();                                              /// при вводе 0, но это нихуя не работает
-            if (s == "0")                                                               /// и процесс по факту просто выполняется    
-                tokenSource.Cancel();                                                   /// и ему похуй. ниже есть костыли
+            string s = Console.ReadLine();                                              
+            if (s == "0")                                                                
+                tokenSource.Cancel();                                                  
             Console.WriteLine($"Task #{Eratos2.Id} status:       Completed");
 
 
@@ -81,18 +81,18 @@ namespace LABA15
 
             Console.WriteLine("===============================   TASK 4   ===============================");
             Task<int> task1 = new Task<int>(() => Sum(42, 53));             /// некоторая задача суммы
-            Task task2 = task1.ContinueWith(sum => Display(sum.Result));    /// эта задача запускается после завершения первой
+            Task task2 = task1.ContinueWith(sum => Display(sum.Result));    /// эта задача запускается после завершения первой //позволяют определить задачи, которые выполняются после завершения других задач.
             task1.Start();                                                  /// запускаем первую задачу
             task2.Wait();                                                   /// и ждем окончания второй
 
 
-            /// в пизду этот getawaiter getresult, код из методички не работает)
+            ///  getawaiter getresult
 
             //Task<int> what = Task.Run(() => Enumerable.Range(1, 100000).Count(n => (n % 2 == 0)));
             //// получаем объект продолжения 
             //var awaiter = what.GetAwaiter();
             //// что делать после окончания предшественника 
-            //awaiter.OnCompleted(() => 
+            //awaiter.OnCompleted(() =>
             //{
             //    // получаем результат вычислений предшественника 
             //    int res = awaiter.GetResult();
@@ -111,7 +111,7 @@ namespace LABA15
             Console.WriteLine("\nDefault cycle:\n");                            /// то же самое с дефолтным форичем
             foreach (long l in list)                                            /// спойлер: даже с типом данных лонг 
             {                                                                   /// и тот и тот процесс выполняются за 0.01 сек
-                long result1 = 1;                                               /// так что врем я даже не измерял
+                long result1 = 1;                                               
                 for (int i = 1; i <= l; i++)
                     result1 *= i;
                 Console.WriteLine($"Factorial of {l} is {result1}.");
@@ -141,9 +141,9 @@ namespace LABA15
 
 
             //  TASK 7
-            BlockingCollection<string> bc = new BlockingCollection<string>(5);                      /// мне бля похуй я не 
-            CancellationTokenSource ts = new CancellationTokenSource();                             /// разбирался особо с этим 
-            CancellationToken token7 = ts.Token;                                                    /// мне бы лабы и КП сдать
+            BlockingCollection<string> bc = new BlockingCollection<string>(5);                       
+            CancellationTokenSource ts = new CancellationTokenSource();                             
+            CancellationToken token7 = ts.Token;                                                    
 
             Task[] sellers = new Task[10]
             {
@@ -185,6 +185,7 @@ namespace LABA15
                     count = bc.Count;
                     Thread.Sleep(400);
                     Console.Clear();
+
                     Console.WriteLine("============   TASK 7   =============");
                     Console.WriteLine("--------------- Склад ---------------");
 

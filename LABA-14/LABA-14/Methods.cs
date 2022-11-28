@@ -62,7 +62,7 @@ namespace LABA14
 
         public static void Task5(object obj)
         {
-            Console.WriteLine("\nздарова заебал");
+            Console.WriteLine("\nPOdobed");
         }
     }
 }

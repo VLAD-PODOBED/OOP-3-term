@@ -31,7 +31,7 @@ namespace LABA14
             Console.WriteLine("Базовый каталог:       " + domain.BaseDirectory);
             Console.WriteLine("Детали конфигурации:   " + domain.SetupInformation);
             Console.WriteLine("Все сборки в домене:\n");
-            foreach (Assembly ass in domain.GetAssemblies())
+            foreach (Assembly ass in domain.GetAssemblies()) //получает набор сборок .NET, загруженных в домен приложения
                 Console.WriteLine(ass.GetName().Name);
 
 
