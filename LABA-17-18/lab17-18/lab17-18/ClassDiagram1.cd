@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab17_18.Administrator">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAABAAAQABAACAAAQAAA=</HashCode>
+      <FileName>Administrator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Airline">
+    <Position X="3.75" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAQAAABBA=</HashCode>
+      <FileName>Airline.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab17_18.Brigade">
+    <Position X="11.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAEJAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Brigade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Dispatcher">
+    <Position X="1.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAwACAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>Dispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Flight">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACIAAAAAAAAAAIAAAAAAEAAAAEAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Flight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Program">
+    <Position X="1.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Worker">
+    <Position X="6.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAIAACAAAACAAAAAAAQAAAAA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Director">
+    <Position X="6.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Builder\Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab17_18.Builder">
+    <Position X="11.25" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAABAAACAAAAAAAAAAAAAACAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\Builder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="lab17_18.IWorkerBuilder">
+    <Position X="8.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAAA=</HashCode>
+      <FileName>Builder\IWorkerBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
