@@ -17,16 +17,16 @@ namespace lab17_18
         IPrototype Clone();
     }
 
-    class Airline : IPrototype
+    class X : IPrototype
     {
 		public static List<Flight> ListOfFlights { get; set; } = new List<Flight>();
 
         private string Name { get; set; }
-        public Airline() {  }
-        public Airline(Airline donor) => this.Name = donor.Name;
+        public X() {  }
+        public X(X donor) => this.Name = donor.Name;
         public void SetName(string Name) => this.Name = Name;
         public string GetName() => Name;
-        public IPrototype Clone() => new Airline(this);
+        public IPrototype Clone() => new X(this);
 
     }
 }

@@ -6,3 +6,11 @@ D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab
 D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.csproj.CoreCompileInputs.cache
 D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.exe
 D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.pdb
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\bin\Debug\Abstract_Factory.exe.config
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\bin\Debug\Abstract_Factory.exe
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\bin\Debug\Abstract_Factory.pdb
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.csproj.AssemblyReference.cache
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.csproj.SuggestedBindingRedirects.cache
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.csproj.CoreCompileInputs.cache
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.exe
+D:\ООП\LABA-17-18\lab17-18\Abstract_Factory\obj\Debug\Abstract_Factory.pdb

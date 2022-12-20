@@ -19,7 +19,7 @@ namespace lab17_18
 
         public void ChangeFlight(Flight flight)
         {
-            foreach (var item in Airline.ListOfFlights)
+            foreach (var item in X.ListOfFlights)
             {
                 if(item.FlightName == flight.FlightName)
                 {
@@ -32,14 +32,14 @@ namespace lab17_18
                 }
             }
         }
-        public void DelFlight(Flight flight) => Airline.ListOfFlights.Remove(flight); 
-        public void AddFlight(string WhereFrom, string Where, DateTime DepartureTime) => Airline.ListOfFlights.Add(new Flight(WhereFrom, Where, DepartureTime));
+        public void DelFlight(Flight flight) => X.ListOfFlights.Remove(flight); 
+        public void AddFlight(string WhereFrom, string Where, DateTime DepartureTime) => X.ListOfFlights.Add(new Flight(WhereFrom, Where, DepartureTime));
         public void ShowListOfFlights()
         {
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("\n Типо читатели: ");
             Console.ForegroundColor = ConsoleColor.White;
-            foreach (var item in Airline.ListOfFlights)
+            foreach (var item in X.ListOfFlights)
             {
                 Console.WriteLine("Nickname: " + item.FlightName);
                 Console.WriteLine("Псевдоним: " + item.PropWhere);

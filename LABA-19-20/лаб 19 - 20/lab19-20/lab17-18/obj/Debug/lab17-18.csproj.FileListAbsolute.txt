@@ -1,0 +1,24 @@
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\bin\Debug\lab17-18.exe.config
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\bin\Debug\lab17-18.exe
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\bin\Debug\lab17-18.pdb
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.AssemblyReference.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.SuggestedBindingRedirects.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.exe
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.pdb
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.exe.config
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.exe
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.pdb
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.AssemblyReference.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.SuggestedBindingRedirects.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.exe
+D:\Моё\Универ\2 курс\1 семестр\ОПиСП\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.pdb
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.exe.config
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.exe
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\bin\Debug\lab17-18.pdb
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.AssemblyReference.cache
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.SuggestedBindingRedirects.cache
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.exe
+D:\ООП\LABA-19-20\лаб 19 - 20\lab19-20\lab17-18\obj\Debug\lab17-18.pdb

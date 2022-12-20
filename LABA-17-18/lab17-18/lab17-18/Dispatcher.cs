@@ -25,7 +25,7 @@ namespace lab17_18
         public void DelAWorkerToTheBrigade(Brigade brigade, Worker worker) => brigade.BrigadeListWorker.Remove(worker);
 		public void AddBrigadeToTheFlight(Brigade brigade, string FlightName)
 		{
-			foreach (var item in Airline.ListOfFlights)
+			foreach (var item in X.ListOfFlights)
 			{
 				if (item.FlightName == FlightName)
 				{

@@ -14,3 +14,11 @@ D:\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.SuggestedBindingRe
 D:\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
 D:\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.exe
 D:\лаб 17 - 18\lab17-18\lab17-18\obj\Debug\lab17-18.pdb
+D:\ООП\LABA-17-18\lab17-18\lab17-18\bin\Debug\lab17-18.exe.config
+D:\ООП\LABA-17-18\lab17-18\lab17-18\bin\Debug\lab17-18.exe
+D:\ООП\LABA-17-18\lab17-18\lab17-18\bin\Debug\lab17-18.pdb
+D:\ООП\LABA-17-18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.AssemblyReference.cache
+D:\ООП\LABA-17-18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.SuggestedBindingRedirects.cache
+D:\ООП\LABA-17-18\lab17-18\lab17-18\obj\Debug\lab17-18.csproj.CoreCompileInputs.cache
+D:\ООП\LABA-17-18\lab17-18\lab17-18\obj\Debug\lab17-18.exe
+D:\ООП\LABA-17-18\lab17-18\lab17-18\obj\Debug\lab17-18.pdb

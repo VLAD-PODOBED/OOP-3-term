@@ -16,49 +16,49 @@ namespace Abstract_Factory
         }
     }
 
-    abstract class Weapon       //абстрактный класс - оружие
+    abstract class Weapon       //абстрактный класс - книги
     {
         public abstract void Hit();
     }
 
-    abstract class Movement     // абстрактный класс движение
+    abstract class Movement     // абстрактный класс подписка
     {
         public abstract void Move();
     }
 
 
-    class Arbalet : Weapon      // класс арбалет
+    class Arbalet : Weapon      // класс кто=то
     {
-        public override void Hit() => Console.WriteLine("Стреляем из арбалета");
+        public override void Hit() => Console.WriteLine("Читает");
     }
-    class Sword : Weapon        // класс меч
+    class Sword : Weapon        // класс открытие
     {
-        public override void Hit() => Console.WriteLine("Бьем мечом");
+        public override void Hit() => Console.WriteLine("Открывает");
     }
-    class FlyMovement : Movement // движение полета
+    class FlyMovement : Movement // движение удаление
     {
-        public override void Move() => Console.WriteLine("Летим");
+        public override void Move() => Console.WriteLine("Удаляет");
     }
-    class RunMovement : Movement // движение - бег
+    class RunMovement : Movement // движение - подписывание
     {
-        public override void Move() => Console.WriteLine("Бежим");
+        public override void Move() => Console.WriteLine("Подписываемся");
     }
     abstract class HeroFactory  // класс абстрактной фабрики
     {
         public abstract Movement CreateMovement();
         public abstract Weapon CreateWeapon();
     }
-    class ElfFactory : HeroFactory // Фабрика создания летящего героя с арбалетом
+    class ElfFactory : HeroFactory // Фабрика создания 
     {
         public override Movement CreateMovement() => new FlyMovement();
         public override Weapon CreateWeapon() => new Arbalet();
     }
-    class VoinFactory : HeroFactory // Фабрика создания бегущего героя с мечом
+    class VoinFactory : HeroFactory // Фабрика создания 
     {
         public override Movement CreateMovement() => new RunMovement();
         public override Weapon CreateWeapon() => new Sword();
     }
-    class Hero              // клиент - сам супергерой
+    class Hero              // клиент 
     {
         private Weapon weapon;
         private Movement movement;

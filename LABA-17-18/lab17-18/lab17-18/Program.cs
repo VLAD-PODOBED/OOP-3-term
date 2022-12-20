@@ -69,7 +69,7 @@ namespace lab17_18
 
             /// Prototype
 
-            IPrototype AirlineDonor = new Airline();
+            IPrototype AirlineDonor = new X();
             AirlineDonor.SetName("Mrmamam");
 
             IPrototype AirlineClone = AirlineDonor.Clone();
